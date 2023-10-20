@@ -1,0 +1,27 @@
+.my_batton{
+    background-color: aqua;
+    text-shadow: 20cap;
+}
+
+.icons{
+    width: 50px;
+    height: auto;
+    padding-left: 10%;
+    padding-right: 20%;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+}
+
+.text {
+    color: #560319;
+    background-color: aqua;
+    text-align: center;
+}
+
+.img {
+    width: 300px;;
+}
+
+.self {
+    padding-top: 100%;
+}
