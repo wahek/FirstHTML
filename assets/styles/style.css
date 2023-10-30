@@ -6,10 +6,8 @@
 .icons{
     width: 50px;
     height: auto;
-    padding-left: 10%;
-    padding-right: 20%;
-    padding-top: 1cm;
-    padding-bottom: 1cm;
+    margin: 0px 200px;
+    border: 1px solid gray;
 }
 
 .text {
@@ -24,4 +22,37 @@
 
 .self {
     padding-top: 100%;
+}
+
+a {
+    text-decoration: none;
+    }
+
+.href_style{
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.head_inside{
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.paragraph{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+}
+
+.head2_inside{
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
 }
